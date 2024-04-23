@@ -906,8 +906,6 @@ terraform destroy
 
 Once again, you will have to confirm this step by typing `yes` when prompted. This will remove your complete stack from the cloud, so only use it when you're 100% sure of it.
 
-_[Back to the top](#table-of-contents)_
-
 # Extra content
 
 ## Setting up a development environment in a Google Cloud VM
